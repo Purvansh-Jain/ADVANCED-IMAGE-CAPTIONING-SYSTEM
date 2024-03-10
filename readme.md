@@ -12,7 +12,9 @@
 The MSCOCO dataset, utilized for this project, is a large-scale dataset for object detection, segmentation, and captioning. Approximately 25GB in size, it is pre-split into training, validation, and test sets, making it ideal for developing and testing machine learning models focused on image captioning. The dataset includes images with multiple captions provided by human annotators, offering rich data for training our models.
 
 Train Data (118k images): http://images.cocodataset.org/zips/train2017.zip
+
 Val Data (5k images):     http://images.cocodataset.org/zips/val2017.zip
+
 Test Data (41k images):   http://images.cocodataset.org/zips/val2017.zip
 
 ## Technologies Used
