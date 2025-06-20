@@ -36,5 +36,5 @@ The project documentation provides comprehensive guidance on using the system to
 Our improvements in BLEU scores and other metrics highlight the model's effectiveness in generating contextually relevant and accurate image captions. The detailed results section discusses these findings and compares the model's performance across different configurations and training setups.
 
 ## Contributions
-This project is a collaborative effort between Purvansh Jain, Santnam Bakshi and Rishi Ghia. Contributions from the wider community are welcome, and we thank all those who have provided feedback, data, and support.
+This project is a collaborative effort between Purvansh Jain, Santnam Bakshi, Kavish Shah and Rishi Ghia. Contributions from the wider community are welcome, and we thank all those who have provided feedback, data, and support.
 
